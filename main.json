@@ -1,1 +1,30 @@
-i
+[
+  {
+    "companyName": "Company A",
+    "origin": "Country X",
+    "establishedBy": "Founder A",
+    "currentOwner": "Owner B",
+    "associations": {
+      "israel": true,
+      "usa": false,
+      "india": false,
+      "lgbt": true,
+      "interest": "Category Z"
+    },
+    "note": "This is a note about Company A."
+  },
+  {
+    "companyName": "Company B",
+    "origin": "Country Y",
+    "establishedBy": "Founder C",
+    "currentOwner": "Owner D",
+    "associations": {
+      "israel": false,
+      "usa": true,
+      "india": false,
+      "lgbt": false,
+      "interest": "Category W"
+    },
+    "note": "This is a note about Company B."
+  }
+]
