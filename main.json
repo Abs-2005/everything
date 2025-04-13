@@ -1,30 +1,1274 @@
 [
-  {
-    "companyName": "Company A",
-    "origin": "Country X",
-    "establishedBy": "Founder A",
-    "currentOwner": "Owner B",
-    "associations": {
-      "israel": true,
-      "usa": false,
-      "india": false,
-      "lgbt": true,
-      "interest": "Category Z"
+    {
+        "companyName": "Check Point Software Technologies",
+        "origin": "Israel",
+        "establishedBy": "Gil Shwed, Marius Nacht, and Shlomo Kramer",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Israeli-founded cybersecurity company headquartered in Tel Aviv. Companies with Israeli origins are considered haram by many Islamic scholars due to concerns about supporting the Israeli state."
     },
-    "note": "This is a note about Company A."
-  },
-  {
-    "companyName": "Company B",
-    "origin": "Country Y",
-    "establishedBy": "Founder C",
-    "currentOwner": "Owner D",
-    "associations": {
-      "israel": false,
-      "usa": true,
-      "india": false,
-      "lgbt": false,
-      "interest": "Category W"
+    {
+        "companyName": "Teva Pharmaceutical Industries",
+        "origin": "Israel",
+        "establishedBy": "Chaim Salomon, Moshe Levin, and Yitschak Elstein",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "World's largest generic drug manufacturer based in Israel. Supporting Israeli companies is considered haram by many Islamic authorities due to political and religious concerns."
     },
-    "note": "This is a note about Company B."
-  }
+    {
+        "companyName": "Wix",
+        "origin": "Israel",
+        "establishedBy": "Avishai Abrahami, Nadav Abrahami, and Giora Kaplan",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Website development platform founded and headquartered in Tel Aviv, Israel. Companies founded in Israel are considered haram by many Muslims due to the occupation of Palestinian territories."
+    },
+    {
+        "companyName": "Mobileye",
+        "origin": "Israel",
+        "establishedBy": "Amnon Shashua and Ziv Aviram",
+        "currentOwner": "Intel Corporation",
+        "is": "haram",
+        "note": "Autonomous driving technology company founded in Jerusalem. While now owned by Intel, its Israeli origins and continued operations in Israel make it haram according to many Islamic scholars."
+    },
+    {
+        "companyName": "SodaStream",
+        "origin": "Israel",
+        "establishedBy": "Peter Wiseburgh",
+        "currentOwner": "PepsiCo",
+        "is": "haram",
+        "note": "Home carbonation product company founded in Israel. Despite acquisition by PepsiCo, its Israeli origins and manufacturing presence in Israel make it haram according to many Islamic scholars."
+    },
+    {
+        "companyName": "NICE Ltd.",
+        "origin": "Israel",
+        "establishedBy": "7 Israeli scientists",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Software company headquartered in Ra'anana, Israel, specializing in customer service analytics. As an Israeli company, it is considered haram by many Islamic authorities."
+    },
+    {
+        "companyName": "Elbit Systems",
+        "origin": "Israel",
+        "establishedBy": "Elron Electronic Industries",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Israeli defense electronics company that supplies equipment to the Israeli military. Defense companies supporting Israel are particularly considered haram by Islamic scholars."
+    },
+    {
+        "companyName": "Monday.com",
+        "origin": "Israel",
+        "establishedBy": "Roy Mann and Eran Zinman",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Work management platform founded and based in Tel Aviv, Israel. Israeli tech companies are considered haram by many Islamic scholars due to their contributions to the Israeli economy."
+    },
+    {
+        "companyName": "Fiverr",
+        "origin": "Israel",
+        "establishedBy": "Micha Kaufman and Shai Wininger",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online marketplace for freelance services founded in Tel Aviv. Supporting companies with Israeli origins is considered haram by many Islamic authorities."
+    },
+    {
+        "companyName": "Playtika",
+        "origin": "Israel",
+        "establishedBy": "Robert Antokol and Uri Shahak",
+        "currentOwner": "Giant Network Group (Chinese consortium)",
+        "is": "haram",
+        "note": "Mobile gaming company founded in Israel. Despite Chinese ownership, its Israeli origins and continued significant operations in Israel make it haram according to many Islamic scholars. Also operates in gambling-adjacent gaming sector."
+    },
+    {
+        "companyName": "Mellanox Technologies",
+        "origin": "Israel",
+        "establishedBy": "Eyal Waldman",
+        "currentOwner": "NVIDIA",
+        "is": "haram",
+        "note": "Computer networking products company founded in Israel. Although acquired by NVIDIA, its Israeli origins and continued operations in Israel make it haram according to many Islamic scholars."
+    },
+    {
+        "companyName": "Taboola",
+        "origin": "Israel",
+        "establishedBy": "Adam Singolda",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Web advertising company founded in Israel. Israeli companies are generally considered haram for Muslims who adhere to the boycott of Israeli businesses."
+    },
+    {
+        "companyName": "Teva Pharmaceutical Industries",
+        "origin": "Israel",
+        "establishedBy": "Chaim Salomon, Moshe Levin, and Yitschak Elstein",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "World's largest generic drug manufacturer headquartered in Petah Tikva, Israel. Supporting Israeli companies is considered haram by many Islamic authorities."
+    },
+    {
+        "companyName": "Waze",
+        "origin": "Israel",
+        "establishedBy": "Ehud Shabtai, Amir Shinar, and Uri Levine",
+        "currentOwner": "Google",
+        "is": "haram",
+        "note": "Navigation app founded in Israel. Although now owned by Google, its Israeli origins and continued R&D operations in Israel make it haram according to many Islamic scholars."
+    },
+    {
+        "companyName": "Sisense",
+        "origin": "Israel",
+        "establishedBy": "Elad Israeli, Eldad Farkash",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Business intelligence software company founded in Israel. Israeli companies are considered haram by many Islamic scholars due to their contribution to the Israeli economy."
+    },
+    {
+        "companyName": "CyberArk",
+        "origin": "Israel",
+        "establishedBy": "Udi Mokady and Alon Cohen",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Information security company headquartered in Israel and specializing in identity security. As an Israeli company, it is considered haram by many Islamic authorities."
+    },
+    {
+        "companyName": "OrCam Technologies",
+        "origin": "Israel",
+        "establishedBy": "Amnon Shashua and Ziv Aviram",
+        "currentOwner": "Private",
+        "is": "haram",
+        "note": "Artificial vision device company founded in Jerusalem. Israeli companies are generally considered haram due to religious and political concerns regarding Israel."
+    },
+    {
+        "companyName": "ironSource",
+        "origin": "Israel",
+        "establishedBy": "Tomer Bar-Zeev and others",
+        "currentOwner": "Unity Technologies",
+        "is": "haram",
+        "note": "Mobile app monetization and distribution company founded in Tel Aviv. Supporting companies with Israeli origins is considered haram by many Islamic authorities."
+    },
+    {
+        "companyName": "Outbrain",
+        "origin": "Israel",
+        "establishedBy": "Yaron Galai and Ori Lahav",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Web advertising platform founded in Israel. Israeli companies are considered haram by many Islamic scholars due to their contributions to the Israeli economy and state."
+    },
+    {
+        "companyName": "Riskified",
+        "origin": "Israel",
+        "establishedBy": "Eido Gal and Assaf Feldman",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "E-commerce fraud prevention platform founded in Tel Aviv. Israeli companies are generally considered haram for Muslims who adhere to the boycott of Israeli businesses."
+    },
+    {
+        "companyName": "Similarweb",
+        "origin": "Israel",
+        "establishedBy": "Or Offer",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Web analytics company founded in Tel Aviv. Supporting Israeli companies is considered haram by many Islamic authorities due to political concerns."
+    },
+    {
+        "companyName": "Intel Israel",
+        "origin": "United States (with major operations in Israel)",
+        "establishedBy": "Robert Noyce and Gordon Moore",
+        "currentOwner": "Intel Corporation",
+        "is": "haram",
+        "note": "Major R&D and manufacturing operations in Israel, with over 14,000 employees in Israel. Companies with significant operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Microsoft Israel",
+        "origin": "United States (with major operations in Israel)",
+        "establishedBy": "Bill Gates and Paul Allen",
+        "currentOwner": "Microsoft Corporation",
+        "is": "haram",
+        "note": "Large R&D center in Israel with over 2,000 employees. Multinational companies with major operations in Israel that contribute significantly to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Google Israel",
+        "origin": "United States (with major operations in Israel)",
+        "establishedBy": "Larry Page and Sergey Brin",
+        "currentOwner": "Alphabet Inc.",
+        "is": "haram",
+        "note": "Major R&D center in Tel Aviv and Haifa. Multinational companies with significant operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Apple Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Steve Jobs, Steve Wozniak, and Ronald Wayne",
+        "currentOwner": "Apple Inc.",
+        "is": "haram",
+        "note": "R&D center in Herzliya, Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Amazon Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Jeff Bezos",
+        "currentOwner": "Amazon.com, Inc.",
+        "is": "haram",
+        "note": "R&D center in Tel Aviv and operations in Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Facebook Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Mark Zuckerberg",
+        "currentOwner": "Meta Platforms, Inc.",
+        "is": "haram",
+        "note": "R&D center in Tel Aviv. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "IBM Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Charles Ranlett Flint",
+        "currentOwner": "IBM Corporation",
+        "is": "haram",
+        "note": "Research and development facilities in Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Cisco Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Leonard Bosack and Sandy Lerner",
+        "currentOwner": "Cisco Systems, Inc.",
+        "is": "haram",
+        "note": "R&D center in Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "HP Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Bill Hewlett and David Packard",
+        "currentOwner": "HP Inc.",
+        "is": "haram",
+        "note": "R&D facilities in Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Motorola Solutions Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Paul Galvin",
+        "currentOwner": "Motorola Solutions, Inc.",
+        "is": "haram",
+        "note": "R&D center in Israel, providing technology used by Israeli security forces. Multinational companies with operations in Israel, especially those supporting security operations, are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Samsung Israel",
+        "origin": "South Korea (with operations in Israel)",
+        "establishedBy": "Lee Byung-chul",
+        "currentOwner": "Samsung Group",
+        "is": "haram",
+        "note": "R&D center in Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Siemens Israel",
+        "origin": "Germany (with operations in Israel)",
+        "establishedBy": "Werner von Siemens",
+        "currentOwner": "Siemens AG",
+        "is": "haram",
+        "note": "Operations in Israel including infrastructure projects. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Philips Israel",
+        "origin": "Netherlands (with operations in Israel)",
+        "establishedBy": "Gerard Philips and Anton Philips",
+        "currentOwner": "Koninklijke Philips N.V.",
+        "is": "haram",
+        "note": "Research and development center in Haifa, Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "Oracle Israel",
+        "origin": "United States (with operations in Israel)",
+        "establishedBy": "Larry Ellison, Bob Miner, and Ed Oates",
+        "currentOwner": "Oracle Corporation",
+        "is": "haram",
+        "note": "R&D center in Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "SAP Israel",
+        "origin": "Germany (with operations in Israel)",
+        "establishedBy": "Dietmar Hopp, Hans-Werner Hector, Hasso Plattner, Klaus Tschira, and Claus Wellenreuther",
+        "currentOwner": "SAP SE",
+        "is": "haram",
+        "note": "R&D center in Ra'anana, Israel. Multinational companies with operations in Israel that contribute to the Israeli economy are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "PepsiCo (owner of SodaStream)",
+        "origin": "United States",
+        "establishedBy": "Caleb Bradham",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Owner of Israeli company SodaStream with manufacturing operations in Israel. Companies that acquire Israeli businesses and maintain operations in Israel are considered haram by many Islamic scholars."
+    },
+    {
+        "companyName": "McDonald's",
+        "origin": "United States",
+        "establishedBy": "Richard and Maurice McDonald",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Operates franchises in Israel and has been criticized for supporting Israel. Also a major supporter of LGBTQ causes, which is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Coca-Cola",
+        "origin": "United States",
+        "establishedBy": "John Stith Pemberton",
+        "currentOwner": "The Coca-Cola Company",
+        "is": "haram",
+        "note": "Operates bottling facilities in Israel and has been criticized for supporting Israel. Also a major supporter of LGBTQ causes, which is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Starbucks",
+        "origin": "United States",
+        "establishedBy": "Jerry Baldwin, Zev Siegl, and Gordon Bowker",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Has been criticized for supporting Israel. Also a major supporter of LGBTQ causes with policies promoting LGBTQ rights, which is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Apple",
+        "origin": "United States",
+        "establishedBy": "Steve Jobs, Steve Wozniak, and Ronald Wayne",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Prominent supporter of LGBTQ rights and has operations in Israel. Regular participant in Pride events and has LGBTQ-inclusive policies. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Microsoft",
+        "origin": "United States",
+        "establishedBy": "Bill Gates and Paul Allen",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major supporter of LGBTQ causes and has operations in Israel. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Google",
+        "origin": "United States",
+        "establishedBy": "Larry Page and Sergey Brin",
+        "currentOwner": "Alphabet Inc.",
+        "is": "haram",
+        "note": "Prominent supporter of LGBTQ rights and has operations in Israel. Has LGBTQ-inclusive policies and benefits, and sponsors Pride events worldwide. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Amazon",
+        "origin": "United States",
+        "establishedBy": "Jeff Bezos",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major supporter of LGBTQ rights and has operations in Israel. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Nike",
+        "origin": "United States",
+        "establishedBy": "Bill Bowerman and Phil Knight",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Prominent supporter of LGBTQ rights with annual LGBTQ-themed product lines. Regular participant in and sponsor of Pride events. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Adidas",
+        "origin": "Germany",
+        "establishedBy": "Adolf Dassler",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with annual Pride collections and LGBTQ-inclusive marketing. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Levi Strauss & Co.",
+        "origin": "United States",
+        "establishedBy": "Levi Strauss",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "One of the top corporate funders of LGBTQ causes with over $1.7 million in donations. Has strongly advocated for LGBTQ rights for decades. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Gap Inc.",
+        "origin": "United States",
+        "establishedBy": "Donald Fisher and Doris F. Fisher",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Strong supporter of LGBTQ rights with annual Pride collections and LGBTQ-inclusive marketing. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Target",
+        "origin": "United States",
+        "establishedBy": "George Dayton",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Prominent supporter of LGBTQ rights with annual Pride merchandise and sponsorship of Pride events. Has faced controversy for its stance. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Walmart",
+        "origin": "United States",
+        "establishedBy": "Sam Walton",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive policies and benefits. Has received high scores on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Disney",
+        "origin": "United States",
+        "establishedBy": "Walt Disney and Roy O. Disney",
+        "currentOwner": "The Walt Disney Company",
+        "is": "haram",
+        "note": "Strong supporter of LGBTQ rights with annual "Gay Days" at Disney parks and LGBTQ-inclusive content. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Netflix",
+        "origin": "United States",
+        "establishedBy": "Reed Hastings and Marc Randolph",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Creates and promotes LGBTQ-inclusive content and has taken public stances in support of LGBTQ rights. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Airbnb",
+        "origin": "United States",
+        "establishedBy": "Brian Chesky, Joe Gebbia, and Nathan Blecharczyk",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with anti-discrimination policies and sponsorship of Pride events. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Uber",
+        "origin": "United States",
+        "establishedBy": "Travis Kalanick and Garrett Camp",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive policies and Pride sponsorships. Has received high scores on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Marriott International",
+        "origin": "United States",
+        "establishedBy": "J. Willard Marriott",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Strong supporter of LGBTQ rights with LGBTQ wedding marketing and sponsorship of Pride events. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Hilton",
+        "origin": "United States",
+        "establishedBy": "Conrad Hilton",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive marketing and policies. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "American Express",
+        "origin": "United States",
+        "establishedBy": "Henry Wells, William Fargo, and John Butterfield",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and major financial institution dealing with interest-based transactions (riba). Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Mastercard",
+        "origin": "United States",
+        "establishedBy": "Several California banks",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and major financial company dealing with interest-based transactions (riba). Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Visa",
+        "origin": "United States",
+        "establishedBy": "Dee Hock",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and major financial company dealing with interest-based transactions (riba). Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "PayPal",
+        "origin": "United States",
+        "establishedBy": "Peter Thiel, Max Levchin, and others",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and financial company dealing with interest-based transactions. Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "IBM",
+        "origin": "United States",
+        "establishedBy": "Charles Ranlett Flint",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Long-time supporter of LGBTQ rights with LGBTQ-inclusive policies since the 1980s. Has operations in Israel and has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Intel",
+        "origin": "United States",
+        "establishedBy": "Robert Noyce and Gordon Moore",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and has major operations in Israel. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Both supporting LGBTQ causes and having significant operations in Israel are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "HP Inc.",
+        "origin": "United States",
+        "establishedBy": "Bill Hewlett and David Packard",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and has operations in Israel. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Both supporting LGBTQ causes and having operations in Israel are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Procter & Gamble",
+        "origin": "United States",
+        "establishedBy": "William Procter and James Gamble",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive advertisements and policies. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Unilever",
+        "origin": "United Kingdom/Netherlands",
+        "establishedBy": "Merger of Lever Brothers, Margarine Unie, and others",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive marketing and policies. Has received high scores for LGBTQ workplace inclusion. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Pfizer",
+        "origin": "United States",
+        "establishedBy": "Charles Pfizer and Charles F. Erhart",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive policies. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Johnson & Johnson",
+        "origin": "United States",
+        "establishedBy": "Robert Wood Johnson I, James Wood Johnson, and Edward Mead Johnson",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights with LGBTQ-inclusive policies. Has received perfect score on Human Rights Campaign's Corporate Equality Index. Supporting LGBTQ causes is considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "JPMorgan Chase",
+        "origin": "United States",
+        "establishedBy": "J.P. Morgan",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and major financial institution dealing with interest-based transactions (riba). Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Bank of America",
+        "origin": "United States",
+        "establishedBy": "Amadeo Giannini",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Supporter of LGBTQ rights and major financial institution dealing with interest-based transactions (riba). Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Citigroup",
+        "origin": "United States",
+        "establishedBy": "Samuel Osgood",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Wells Fargo",
+        "origin": "United States",
+        "establishedBy": "Henry Wells and William Fargo",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Top corporate funder of LGBTQ issues and major financial institution dealing with interest-based transactions (riba). Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "HSBC",
+        "origin": "United Kingdom",
+        "establishedBy": "Thomas Sutherland",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Barclays",
+        "origin": "United Kingdom",
+        "establishedBy": "John Freame and Thomas Gould",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba) and supporter of LGBTQ rights. Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Deutsche Bank",
+        "origin": "Germany",
+        "establishedBy": "Adelbert Delbrück and Ludwig Bamberger",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "UBS",
+        "origin": "Switzerland",
+        "establishedBy": "Merger of Union Bank of Switzerland and Swiss Bank Corporation",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Credit Suisse",
+        "origin": "Switzerland",
+        "establishedBy": "Alfred Escher",
+        "currentOwner": "UBS Group AG",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Goldman Sachs",
+        "origin": "United States",
+        "establishedBy": "Marcus Goldman",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major investment bank dealing with interest-based transactions (riba) and supporter of LGBTQ rights. Both supporting LGBTQ causes and involvement in interest-based finance are considered haram according to Islamic principles."
+    },
+    {
+        "companyName": "Morgan Stanley",
+        "origin": "United States",
+        "establishedBy": "Henry S. Morgan and Harold Stanley",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major investment bank dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "BNP Paribas",
+        "origin": "France",
+        "establishedBy": "Merger of Banque Nationale de Paris and Paribas",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Santander Group",
+        "origin": "Spain",
+        "establishedBy": "Banco Santander",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "ING Group",
+        "origin": "Netherlands",
+        "establishedBy": "Merger of Nationale-Nederlanden and NMB Postbank Group",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "American Express",
+        "origin": "United States",
+        "establishedBy": "Henry Wells, William Fargo, and John Butterfield",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major credit card issuer with interest-based financial products. The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Discover Financial",
+        "origin": "United States",
+        "establishedBy": "Sears",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Credit card company charging interest on unpaid balances. The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Capital One",
+        "origin": "United States",
+        "establishedBy": "Richard Fairbank and Nigel Morris",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major credit card issuer with interest-based financial products. The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Synchrony Financial",
+        "origin": "United States",
+        "establishedBy": "GE Capital",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Financial services company specializing in store credit cards with high interest rates. The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Bank of China",
+        "origin": "China",
+        "establishedBy": "Government of China",
+        "currentOwner": "Government of China (majority stake)",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Industrial and Commercial Bank of China",
+        "origin": "China",
+        "establishedBy": "Government of China",
+        "currentOwner": "Government of China (majority stake)",
+        "is": "haram",
+        "note": "World's largest bank by assets, dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "China Construction Bank",
+        "origin": "China",
+        "establishedBy": "Government of China",
+        "currentOwner": "Government of China (majority stake)",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Agricultural Bank of China",
+        "origin": "China",
+        "establishedBy": "Government of China",
+        "currentOwner": "Government of China (majority stake)",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Mitsubishi UFJ Financial Group",
+        "origin": "Japan",
+        "establishedBy": "Merger of Mitsubishi Tokyo Financial Group and UFJ Holdings",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Sumitomo Mitsui Financial Group",
+        "origin": "Japan",
+        "establishedBy": "Merger of Sumitomo Bank and Sakura Bank",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Mizuho Financial Group",
+        "origin": "Japan",
+        "establishedBy": "Merger of Dai-Ichi Kangyo Bank, Fuji Bank, and Industrial Bank of Japan",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Royal Bank of Canada",
+        "origin": "Canada",
+        "establishedBy": "Merchants of Halifax",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Toronto-Dominion Bank",
+        "origin": "Canada",
+        "establishedBy": "Merger of Bank of Toronto and Dominion Bank",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Commonwealth Bank",
+        "origin": "Australia",
+        "establishedBy": "Australian government",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Westpac",
+        "origin": "Australia",
+        "establishedBy": "Bank of New South Wales",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Standard Chartered",
+        "origin": "United Kingdom",
+        "establishedBy": "Merger of Standard Bank of British South Africa and Chartered Bank of India, Australia and China",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major financial institution dealing with interest-based transactions (riba). The charging of interest is explicitly forbidden (haram) in Islam as it is considered a form of exploitation and unjust enrichment."
+    },
+    {
+        "companyName": "Anheuser-Busch InBev",
+        "origin": "Belgium",
+        "establishedBy": "Merger of Anheuser-Busch and InBev",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "World's largest beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Heineken",
+        "origin": "Netherlands",
+        "establishedBy": "Gerard Adriaan Heineken",
+        "currentOwner": "Heineken family (controlling stake)",
+        "is": "haram",
+        "note": "Major global beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Carlsberg Group",
+        "origin": "Denmark",
+        "establishedBy": "J. C. Jacobsen",
+        "currentOwner": "Carlsberg Foundation (controlling stake)",
+        "is": "haram",
+        "note": "Large global beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Molson Coors",
+        "origin": "United States/Canada",
+        "establishedBy": "Merger of Molson and Coors",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Diageo",
+        "origin": "United Kingdom",
+        "establishedBy": "Merger of Grand Metropolitan and Guinness",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "World's largest spirits producer (Johnnie Walker, Smirnoff, Baileys, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Pernod Ricard",
+        "origin": "France",
+        "establishedBy": "Merger of Pernod and Ricard",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major spirits producer (Absolut Vodka, Jameson, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Constellation Brands",
+        "origin": "United States",
+        "establishedBy": "Marvin Sands",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major alcoholic beverage company (Corona, Modelo beers, SVEDKA vodka, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Brown-Forman",
+        "origin": "United States",
+        "establishedBy": "George Garvin Brown",
+        "currentOwner": "Brown family (controlling stake)",
+        "is": "haram",
+        "note": "Spirits and wine company (Jack Daniel's, Woodford Reserve, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Beam Suntory",
+        "origin": "United States/Japan",
+        "establishedBy": "Acquisition of Beam Inc. by Suntory Holdings",
+        "currentOwner": "Suntory Holdings",
+        "is": "haram",
+        "note": "Major spirits producer (Jim Beam, Maker's Mark, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Bacardi",
+        "origin": "Bermuda (founded in Cuba)",
+        "establishedBy": "Facundo Bacardí Massó",
+        "currentOwner": "Bacardi family",
+        "is": "haram",
+        "note": "Largest privately held spirits company (Bacardi rum, Grey Goose vodka, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Kweichow Moutai",
+        "origin": "China",
+        "establishedBy": "State-owned enterprise",
+        "currentOwner": "Publicly traded with government stake",
+        "is": "haram",
+        "note": "World's most valuable liquor company, producing Moutai baijiu. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Wuliangye",
+        "origin": "China",
+        "establishedBy": "State-owned enterprise",
+        "currentOwner": "Publicly traded with government stake",
+        "is": "haram",
+        "note": "Major Chinese spirits producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "LVMH (Moët Hennessy)",
+        "origin": "France",
+        "establishedBy": "Merger of Louis Vuitton and Moët Hennessy",
+        "currentOwner": "Arnault family (controlling stake)",
+        "is": "haram",
+        "note": "Luxury goods company with major spirits and champagne portfolio (Moët & Chandon, Hennessy, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Asahi Group",
+        "origin": "Japan",
+        "establishedBy": "Asahi Breweries",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major Japanese beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Kirin Holdings",
+        "origin": "Japan",
+        "establishedBy": "Japan Brewery Company",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major Japanese beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Sapporo Breweries",
+        "origin": "Japan",
+        "establishedBy": "Seibei Nakagawa",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Japanese beer producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Thai Beverage",
+        "origin": "Thailand",
+        "establishedBy": "Charoen Sirivadhanabhakdi",
+        "currentOwner": "Sirivadhanabhakdi family",
+        "is": "haram",
+        "note": "Major Southeast Asian spirits and beer producer (Chang beer, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "United Breweries",
+        "origin": "India",
+        "establishedBy": "Thomas Leishman",
+        "currentOwner": "Heineken (majority stake)",
+        "is": "haram",
+        "note": "Major Indian beer producer (Kingfisher beer). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "United Spirits",
+        "origin": "India",
+        "establishedBy": "Vittal Mallya",
+        "currentOwner": "Diageo (majority stake)",
+        "is": "haram",
+        "note": "Major Indian spirits producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Treasury Wine Estates",
+        "origin": "Australia",
+        "establishedBy": "Spun off from Foster's Group",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major global wine producer (Penfolds, 19 Crimes, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "E. & J. Gallo Winery",
+        "origin": "United States",
+        "establishedBy": "Ernest and Julio Gallo",
+        "currentOwner": "Gallo family",
+        "is": "haram",
+        "note": "World's largest family-owned winery. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "The Wine Group",
+        "origin": "United States",
+        "establishedBy": "Art Ciocca and others",
+        "currentOwner": "Private",
+        "is": "haram",
+        "note": "Major wine producer (Franzia, Cupcake, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Constellation Brands",
+        "origin": "United States",
+        "establishedBy": "Marvin Sands",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major wine, beer, and spirits producer. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Boston Beer Company",
+        "origin": "United States",
+        "establishedBy": "Jim Koch",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Craft beer producer (Samuel Adams, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Campari Group",
+        "origin": "Italy",
+        "establishedBy": "Gaspare Campari",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Spirits and liqueur producer (Campari, Aperol, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Rémy Cointreau",
+        "origin": "France",
+        "establishedBy": "Merger of E. Rémy Martin & Cie and Cointreau",
+        "currentOwner": "Hériard Dubreuil family (controlling stake)",
+        "is": "haram",
+        "note": "Cognac and liqueur producer (Rémy Martin, Cointreau, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Sazerac Company",
+        "origin": "United States",
+        "establishedBy": "Thomas H. Handy",
+        "currentOwner": "Bill Goldring",
+        "is": "haram",
+        "note": "Privately held spirits company (Buffalo Trace, Fireball, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "William Grant & Sons",
+        "origin": "United Kingdom",
+        "establishedBy": "William Grant",
+        "currentOwner": "Grant/Gordon family",
+        "is": "haram",
+        "note": "Scotch whisky producer (Glenfiddich, The Balvenie, etc.). Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "Heineken",
+        "origin": "Netherlands",
+        "establishedBy": "Gerard Adriaan Heineken",
+        "currentOwner": "Heineken family (controlling stake)",
+        "is": "haram",
+        "note": "Second-largest beer producer globally. Alcohol production, distribution, and consumption are explicitly forbidden (haram) in Islam as intoxicants cloud judgment and harm health."
+    },
+    {
+        "companyName": "MGM Resorts International",
+        "origin": "United States",
+        "establishedBy": "Kirk Kerkorian",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major casino and resort operator. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Las Vegas Sands",
+        "origin": "United States",
+        "establishedBy": "Sheldon Adelson",
+        "currentOwner": "Adelson family (majority stake)",
+        "is": "haram",
+        "note": "Global casino and resort company. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Caesars Entertainment",
+        "origin": "United States",
+        "establishedBy": "William F. Harrah",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Major casino operator. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Wynn Resorts",
+        "origin": "United States",
+        "establishedBy": "Steve Wynn",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Casino and resort company. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Flutter Entertainment",
+        "origin": "Ireland",
+        "establishedBy": "Merger of Paddy Power and Betfair",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Parent company of FanDuel, Betfair, PokerStars, and others. Online gambling and sports betting are explicitly forbidden (haram) in Islam as forms of gambling."
+    },
+    {
+        "companyName": "DraftKings",
+        "origin": "United States",
+        "establishedBy": "Jason Robins, Matthew Kalish, and Paul Liberman",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online sports betting and fantasy sports company. Sports betting is considered a form of gambling, which is explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "Entain",
+        "origin": "United Kingdom",
+        "establishedBy": "Kenneth Alexander",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Sports betting and gaming company (Ladbrokes, Coral, PartyPoker, etc.). Gambling and betting are explicitly forbidden (haram) in Islam as they involve risk and chance rather than skill and work."
+    },
+    {
+        "companyName": "Bet365",
+        "origin": "United Kingdom",
+        "establishedBy": "Denise Coates",
+        "currentOwner": "Coates family",
+        "is": "haram",
+        "note": "Online gambling company. Online gambling and sports betting are explicitly forbidden (haram) in Islam as forms of gambling."
+    },
+    {
+        "companyName": "888 Holdings",
+        "origin": "Gibraltar",
+        "establishedBy": "Avi and Aaron Shaked, Shay and Ron Ben-Yitzhak",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online gambling company. Online gambling is explicitly forbidden (haram) in Islam as a form of gambling."
+    },
+    {
+        "companyName": "Penn Entertainment",
+        "origin": "United States",
+        "establishedBy": "Peter M. Carlino",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Casino and sports betting company (owns Barstool Sportsbook). Gambling and sports betting are explicitly forbidden (haram) in Islam as they involve risk and chance rather than skill and work."
+    },
+    {
+        "companyName": "BetMGM",
+        "origin": "United States",
+        "establishedBy": "Joint venture between MGM Resorts and Entain",
+        "currentOwner": "MGM Resorts and Entain",
+        "is": "haram",
+        "note": "Online sports betting and gaming platform. Sports betting is considered a form of gambling, which is explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "Crown Resorts",
+        "origin": "Australia",
+        "establishedBy": "Lloyd Williams",
+        "currentOwner": "Blackstone Inc.",
+        "is": "haram",
+        "note": "Casino and resort operator. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Star Entertainment Group",
+        "origin": "Australia",
+        "establishedBy": "Spun off from Tabcorp Holdings",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Casino operator. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Aristocrat Leisure",
+        "origin": "Australia",
+        "establishedBy": "Len Ainsworth",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Gambling machine manufacturer. Manufacturing equipment for gambling is considered haram in Islam as it supports and enables gambling activities."
+    },
+    {
+        "companyName": "Scientific Games (now Light & Wonder)",
+        "origin": "United States",
+        "establishedBy": "John Koza and Daniel Bower",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Gambling products and services provider. Manufacturing equipment and providing services for gambling is considered haram in Islam as it supports and enables gambling activities."
+    },
+    {
+        "companyName": "International Game Technology (IGT)",
+        "origin": "United Kingdom",
+        "establishedBy": "William Redd",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Gambling machine manufacturer. Manufacturing equipment for gambling is considered haram in Islam as it supports and enables gambling activities."
+    },
+    {
+        "companyName": "Evolution Gaming",
+        "origin": "Sweden",
+        "establishedBy": "Jens von Bahr and Fredrik Österberg",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Live casino games provider. Providing services for gambling is considered haram in Islam as it supports and enables gambling activities."
+    },
+    {
+        "companyName": "Playtech",
+        "origin": "Isle of Man",
+        "establishedBy": "Teddy Sagi",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Gambling software developer. Developing software for gambling is considered haram in Islam as it supports and enables gambling activities."
+    },
+    {
+        "companyName": "Betsson AB",
+        "origin": "Sweden",
+        "establishedBy": "Bill Lindwall and Rolf Lundström",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online gambling company. Online gambling is explicitly forbidden (haram) in Islam as a form of gambling."
+    },
+    {
+        "companyName": "Kindred Group",
+        "origin": "Malta",
+        "establishedBy": "Anders Ström",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online gambling operator (Unibet, 32Red, etc.). Online gambling is explicitly forbidden (haram) in Islam as a form of gambling."
+    },
+    {
+        "companyName": "William Hill",
+        "origin": "United Kingdom",
+        "establishedBy": "William Hill",
+        "currentOwner": "Caesars Entertainment",
+        "is": "haram",
+        "note": "Bookmaker and sports betting company. Sports betting is considered a form of gambling, which is explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "FanDuel",
+        "origin": "United States",
+        "establishedBy": "Nigel Eccles, Lesley Eccles, Tom Griffiths, Rob Jones, and Chris Stafford",
+        "currentOwner": "Flutter Entertainment",
+        "is": "haram",
+        "note": "Sports betting and fantasy sports company. Sports betting is considered a form of gambling, which is explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "Rush Street Interactive",
+        "origin": "United States",
+        "establishedBy": "Greg Carlin and Neil Bluhm",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Online casino and sports betting operator. Online gambling and sports betting are explicitly forbidden (haram) in Islam as forms of gambling."
+    },
+    {
+        "companyName": "PointsBet",
+        "origin": "Australia",
+        "establishedBy": "Sam Swanell, Andrew Fahey, and Nick Fahey",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Sports betting company. Sports betting is considered a form of gambling, which is explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "Tabcorp Holdings",
+        "origin": "Australia",
+        "establishedBy": "Merger of Totalizator Agency Board operations",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Wagering, media, and lottery operator. Lotteries and wagering are forms of gambling, which are explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "Churchill Downs",
+        "origin": "United States",
+        "establishedBy": "Meriwether Lewis Clark Jr.",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Racing, casino, and online wagering company. Horse racing wagering and casino gaming are forms of gambling, which are explicitly forbidden (haram) in Islam."
+    },
+    {
+        "companyName": "Genting Group",
+        "origin": "Malaysia",
+        "establishedBy": "Lim Goh Tong",
+        "currentOwner": "Lim family",
+        "is": "haram",
+        "note": "Casino and resort conglomerate. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Melco Resorts & Entertainment",
+        "origin": "Hong Kong",
+        "establishedBy": "Lawrence Ho",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Casino and resort operator in Asia. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Galaxy Entertainment Group",
+        "origin": "Hong Kong",
+        "establishedBy": "Lui Che Woo",
+        "currentOwner": "Lui family",
+        "is": "haram",
+        "note": "Casino and hotel operator in Macau. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "SJM Holdings",
+        "origin": "Hong Kong",
+        "establishedBy": "Stanley Ho",
+        "currentOwner": "Publicly traded",
+        "is": "haram",
+        "note": "Casino operator in Macau. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Sands China",
+        "origin": "Hong Kong",
+        "establishedBy": "Las Vegas Sands",
+        "currentOwner": "Las Vegas Sands (majority stake)",
+        "is": "haram",
+        "note": "Casino operator in Macau. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Wynn Macau",
+        "origin": "Hong Kong",
+        "establishedBy": "Wynn Resorts",
+        "currentOwner": "Wynn Resorts (majority stake)",
+        "is": "haram",
+        "note": "Casino operator in Macau. Gambling is explicitly forbidden (haram) in Islam as it promotes chance over work, can lead to addiction, and causes financial harm."
+    },
+    {
+        "companyName": "Caesars Sportsbook",
+        "origin": "United States",
+        "establishedBy": "Caesars Entertainment",
+        "currentOwner": "Caesars Entertainment",
+        "is": "haram",
+        "note": "Sports betting platform. Sports betting is considered a form of gambling, which is explicitly forbidden (haram) in Islam."
+    }
 ]
